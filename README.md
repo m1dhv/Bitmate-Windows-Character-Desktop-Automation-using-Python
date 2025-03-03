@@ -1,6 +1,9 @@
 # Bitmate-Windows-Character-Desktop-Automation-using-Python
 
 Bitmate is a Windows automation tool that allows users to control applications and manage files using voice commands. It is built using Python and integrates with ChatGPT for AI-powered assistance.
+
+
+
 ![Recording 2025-03-03 195511](https://github.com/user-attachments/assets/f00b71e5-8a27-4b60-98e4-8999066783c7)
 
 
