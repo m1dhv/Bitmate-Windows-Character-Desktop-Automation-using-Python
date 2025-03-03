@@ -26,7 +26,7 @@ Bitmate is a Windows automation tool that allows users to control applications a
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/Bitmate-Windows-Character-Desktop-Automation-using-Pythons.git
+   git clone https://github.com/m1dhv/Bitmate-Windows-Character-Desktop-Automation-using-Pythons.git
    ```
 2. Navigate to the project directory:
    ```sh
